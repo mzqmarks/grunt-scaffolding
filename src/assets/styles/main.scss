@@ -1,15 +1,22 @@
 // TODO: site styles
 
 // @import 'node_modules/bootstrap/scss/bootstrap';
-@import 'variables';
+@import '_variables.scss';
 
-@import 'icons';
+@import '_icons.scss';
 
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+
+
+
+
+
+
 
 .jumbotron {
   margin-bottom: 0;
